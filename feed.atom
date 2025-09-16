@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-15T00:55:53.189Z</id>
+    <id>urn:2025-09-16T00:50:56.414Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T00:55:53.189Z</updated>
+    <updated>2025-09-16T00:50:56.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Code Your Own Code Editor]]></title>
+        <id>68c827a7023360e7e4bf5f8f</id>
+        <link href="https://www.freecodecamp.org/news/code-your-own-code-editor/"/>
+        <updated>2025-09-15T14:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Can you code a code editor in a code editor that you coded? We just published a new course on the freeCodeCamp.org YouTube channel where you’ll learn how to build your own browser-based code editor. In this tutorial, developer Mohammed Al Abrah walks...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Elastic And Bounce Effects With Expressive Animator]]></title>
+        <id>https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/</id>
+        <link href="https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/"/>
+        <updated>2025-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marius Sarca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with Collections in Go Using the Standard Library Helpers]]></title>
         <id>68c4a25692f6fb350ff863d5</id>
@@ -46,17 +66,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
-        <id>https://css-tricks.com/?p=389060</id>
-        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
-        <updated>2025-09-12T14:20:45.000Z</updated>
-        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
-What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]]]></title>
         <id>68c42771b2d1879f98d1094b</id>
         <link href="https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/"/>
@@ -84,17 +93,6 @@ What Can We Actually Do With corner-shape? originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...]]></summary>
         <author>
             <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
-        <id>https://css-tricks.com/?p=389117</id>
-        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
-        <updated>2025-09-11T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
-Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -128,27 +126,6 @@ Compiling Multiple CSS Files into One originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Game Development by Building Your First Platformer with Godot]]></title>
-        <id>68c1848b89889b1c80036d24</id>
-        <link href="https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/"/>
-        <updated>2025-09-10T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Ever wanted to build your own video game but felt overwhelmed by where to start? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step from a blank screen to a complete, playable game using the powerful a...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’re Your Top 4 CSS Properties?]]></title>
-        <id>https://css-tricks.com/?p=388800</id>
-        <link href="https://css-tricks.com/whatre-your-top-4-css-properties/"/>
-        <updated>2025-09-10T13:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.
-What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
         <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
         <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
@@ -156,28 +133,6 @@ What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composition in CSS]]></title>
-        <id>https://css-tricks.com/?p=388424</id>
-        <link href="https://css-tricks.com/composition-in-css/"/>
-        <updated>2025-09-08T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
-Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know About CSS Color Interpolation]]></title>
-        <id>https://css-tricks.com/?p=388479</id>
-        <link href="https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/"/>
-        <updated>2025-09-05T13:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  
-What You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
@@ -191,17 +146,6 @@ What You Need to Know About CSS Color Interpolation originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should the CSS light-dark() Function Support More Than Light and Dark Values?]]></title>
-        <id>https://css-tricks.com/?p=388888</id>
-        <link href="https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/"/>
-        <updated>2025-09-02T14:44:26.000Z</updated>
-        <summary type="html"><![CDATA[The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.
-Should the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Breeze Of Inspiration In September (2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/</id>
         <link href="https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/"/>
@@ -212,17 +156,6 @@ Should the CSS light-dark() Function Support More Than Light and Dark Values? or
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Elevator: A Pure CSS State Machine With Floor Navigation]]></title>
-        <id>https://css-tricks.com/?p=388637</id>
-        <link href="https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/"/>
-        <updated>2025-08-29T13:06:48.000Z</updated>
-        <summary type="html"><![CDATA[In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.
-CSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Christian Sabourin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prompting Is A Design Act: How To Brief, Guide And Iterate With AI]]></title>
         <id>https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/</id>
         <link href="https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/"/>
@@ -230,17 +163,6 @@ CSS Elevator: A Pure CSS State Machine With Floor Navigation originally publishe
         <summary type="html"><![CDATA[Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Radio Button Shopping Cart Trick]]></title>
-        <id>https://css-tricks.com/?p=388588</id>
-        <link href="https://css-tricks.com/a-radio-button-shopping-cart-trick/"/>
-        <updated>2025-08-27T14:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.
-A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -264,28 +186,6 @@ A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Creative With Images in Long-Form Content]]></title>
-        <id>https://css-tricks.com/?p=388519</id>
-        <link href="https://css-tricks.com/getting-creative-with-images-in-long-form-content/"/>
-        <updated>2025-08-25T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.
-Getting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Layered Text: Interactivity and Dynamicism]]></title>
-        <id>https://css-tricks.com/?p=388459</id>
-        <link href="https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/"/>
-        <updated>2025-08-22T13:14:31.000Z</updated>
-        <summary type="html"><![CDATA[In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.
-3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Week In The Life Of An AI-Augmented Designer]]></title>
         <id>https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/</id>
         <link href="https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/"/>
@@ -296,17 +196,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Layered Text: Motion and Variations]]></title>
-        <id>https://css-tricks.com/?p=388394</id>
-        <link href="https://css-tricks.com/3d-layered-text-motion-and-variations/"/>
-        <updated>2025-08-20T13:54:52.000Z</updated>
-        <summary type="html"><![CDATA[In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhance depth, and how subtle tweaks can create a whole new vibe.
-3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Double-Edged Sustainability Sword Of AI In Web Design]]></title>
         <id>https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/</id>
         <link href="https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/"/>
@@ -314,17 +203,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         <summary type="html"><![CDATA[AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Layered Text: The Basics]]></title>
-        <id>https://css-tricks.com/?p=388313</id>
-        <link href="https://css-tricks.com/3d-layered-text-the-basics/"/>
-        <updated>2025-08-18T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.
-3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
     <entry>

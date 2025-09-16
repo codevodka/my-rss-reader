@@ -7,154 +7,32 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=389060",
-          "author": "Daniel Schwarz",
-          "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
-          "publishedOn": "2025-09-12T14:20:45.000Z",
-          "wordCount": 3212,
-          "title": "What Can We Actually Do With corner-shape?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389117",
-          "author": "Geoff Graham",
-          "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.\nCompiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/compiling-multiple-css-files-into-one/",
-          "publishedOn": "2025-09-11T15:16:34.000Z",
-          "wordCount": 2573,
-          "title": "Compiling Multiple CSS Files into One",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388800",
-          "author": "Geoff Graham",
-          "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.\nWhat’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whatre-your-top-4-css-properties/",
-          "publishedOn": "2025-09-10T13:13:41.000Z",
-          "wordCount": 2719,
-          "title": "What’re Your Top 4 CSS Properties?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/properties.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388424",
-          "author": "Zell Liew",
-          "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.\nComposition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/composition-in-css/",
-          "publishedOn": "2025-09-08T13:55:26.000Z",
-          "wordCount": 2700,
-          "title": "Composition in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388479",
-          "author": "Sunkanmi Fafowora",
-          "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  \nWhat You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/",
-          "publishedOn": "2025-09-05T13:44:06.000Z",
-          "wordCount": 3045,
-          "title": "What You Need to Know About CSS Color Interpolation",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/cloud-four-gradient.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388888",
-          "author": "Sunkanmi Fafowora",
-          "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
-          "publishedOn": "2025-09-02T14:44:26.000Z",
-          "wordCount": 3182,
-          "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388637",
-          "author": "Christian Sabourin",
-          "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.\nCSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/",
-          "publishedOn": "2025-08-29T13:06:48.000Z",
-          "wordCount": 2850,
-          "title": "CSS Elevator: A Pure CSS State Machine With Floor Navigation",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/08/arrows-up-down.mov",
-            "length": "11379198",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-elevator-machine.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388588",
-          "author": "Preethi",
-          "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.\nA Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-radio-button-shopping-cart-trick/",
-          "publishedOn": "2025-08-27T14:18:12.000Z",
-          "wordCount": 2743,
-          "title": "A Radio Button Shopping Cart Trick",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/add-to-cart-animation.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388519",
-          "author": "Andy Clarke",
-          "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.\nGetting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
-          "publishedOn": "2025-08-25T17:16:35.000Z",
-          "wordCount": 3135,
-          "title": "Getting Creative With Images in Long-Form Content",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/image-long-form-content-caption.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388459",
-          "author": "Amit Sheen",
-          "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.\n3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/",
-          "publishedOn": "2025-08-22T13:14:31.000Z",
-          "wordCount": 4505,
-          "title": "3D Layered Text: Interactivity and Dynamicism",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388394",
-          "author": "Amit Sheen",
-          "description": "In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhance depth, and how subtle tweaks can create a whole new vibe.\n3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/3d-layered-text-motion-and-variations/",
-          "publishedOn": "2025-08-20T13:54:52.000Z",
-          "wordCount": 3700,
-          "title": "3D Layered Text: Motion and Variations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388313",
-          "author": "Amit Sheen",
-          "description": "A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.\n3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/3d-layered-text-the-basics/",
-          "publishedOn": "2025-08-18T13:46:00.000Z",
-          "wordCount": 4184,
-          "title": "3D Layered Text: The Basics",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/07/Bulging-Text.mp4",
-            "length": "2180551",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "author": "hello@smashingmagazine.com (Marius Sarca)",
+          "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.",
+          "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 3896,
+          "title": "Creating Elastic And Bounce Effects With Expressive Animator",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
           "author": "hello@smashingmagazine.com (Karan Rawal)",
           "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
           "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
           "publishedOn": "2025-09-12T15:00:00.000Z",
-          "wordCount": 6278,
+          "wordCount": 6276,
           "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
@@ -169,7 +47,7 @@
           "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.",
           "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
           "publishedOn": "2025-09-10T10:00:00.000Z",
-          "wordCount": 5852,
+          "wordCount": 5845,
           "title": "Integrating CSS Cascade Layers To An Existing Project",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg",
@@ -184,7 +62,7 @@
           "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.",
           "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
           "publishedOn": "2025-09-04T10:00:00.000Z",
-          "wordCount": 7293,
+          "wordCount": 7296,
           "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg",
@@ -199,7 +77,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
           "publishedOn": "2025-08-31T08:00:00.000Z",
-          "wordCount": 4827,
+          "wordCount": 4728,
           "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png",
@@ -214,7 +92,7 @@
           "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.",
           "link": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
           "publishedOn": "2025-08-29T10:00:00.000Z",
-          "wordCount": 6902,
+          "wordCount": 6906,
           "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg",
@@ -229,7 +107,7 @@
           "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
           "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
           "publishedOn": "2025-08-27T13:00:00.000Z",
-          "wordCount": 6672,
+          "wordCount": 6683,
           "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
@@ -244,7 +122,7 @@
           "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
           "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
           "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4605,
+          "wordCount": 4596,
           "title": "Optimizing PWAs For Different Display Modes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
@@ -259,7 +137,7 @@
           "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
           "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
           "publishedOn": "2025-08-22T08:00:00.000Z",
-          "wordCount": 7497,
+          "wordCount": 7496,
           "title": "A Week In The Life Of An AI-Augmented Designer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
@@ -274,7 +152,7 @@
           "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?",
           "link": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
           "publishedOn": "2025-08-20T10:00:00.000Z",
-          "wordCount": 4724,
+          "wordCount": 4726,
           "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/double-edged-sustainability-sword-ai-web-design/double-edged-sustainability-sword-ai-web-design.jpg",
@@ -289,7 +167,7 @@
           "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.",
           "link": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
           "publishedOn": "2025-08-18T13:00:00.000Z",
-          "wordCount": 5435,
+          "wordCount": 5447,
           "title": "Beyond The Hype: What AI Can Really Do For Product Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg",
@@ -305,6 +183,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c827a7023360e7e4bf5f8f",
+          "author": "Beau Carnes",
+          "description": "Can you code a code editor in a code editor that you coded? We just published a new course on the freeCodeCamp.org YouTube channel where you’ll learn how to build your own browser-based code editor. In this tutorial, developer Mohammed Al Abrah walks...",
+          "link": "https://www.freecodecamp.org/news/code-your-own-code-editor/",
+          "publishedOn": "2025-09-15T14:50:15.000Z",
+          "wordCount": 988,
+          "title": "Code Your Own Code Editor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757857427613/06c86002-f1bd-4f74-b4be-c1c476afdd49.png"
+        },
         {
           "id": "68c4a25692f6fb350ff863d5",
           "author": "Gabor Koos",
@@ -394,16 +282,6 @@
           "wordCount": 1865,
           "title": "How to Extend CRUD Operations to Align with Business Workflows",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757518255485/8e727e36-d22a-42d9-b1a7-98d3ca5eae35.png"
-        },
-        {
-          "id": "68c1848b89889b1c80036d24",
-          "author": "Beau Carnes",
-          "description": "Ever wanted to build your own video game but felt overwhelmed by where to start? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step from a blank screen to a complete, playable game using the powerful a...",
-          "link": "https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/",
-          "publishedOn": "2025-09-10T14:00:43.000Z",
-          "wordCount": 1086,
-          "title": "Learn Game Development by Building Your First Platformer with Godot",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757366007955/01b7fca7-e8f1-49b6-9b4b-c44bc22204e7.png"
         }
       ]
     }

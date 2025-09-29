@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-28T00:57:37.795Z</id>
+    <id>urn:2025-09-29T00:54:09.389Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T00:57:37.795Z</updated>
+    <updated>2025-09-29T00:54:09.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,17 @@
         <summary type="html"><![CDATA[Tom Mondloch quit programming after he finished community college. After a few years of odd jobs, he decided to get back into programming and discovered freeCodeCamp. He was just learning his own way, and didn't think freeCodeCamp's linear curriculum...]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Gmail’s Google Gemini Animation]]></title>
+        <id>https://css-tricks.com/?p=389344</id>
+        <link href="https://css-tricks.com/recreating-gmails-google-gemini-animation/"/>
+        <updated>2025-09-26T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.
+Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +137,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
+        <id>https://css-tricks.com/?p=389371</id>
+        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
+        <updated>2025-09-24T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
+CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
         <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
         <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
@@ -133,6 +155,17 @@
         <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
+        <id>https://css-tricks.com/?p=389157</id>
+        <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
+        <updated>2025-09-19T13:58:37.000Z</updated>
+        <summary type="html"><![CDATA[A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.
+On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +189,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
+        <id>https://css-tricks.com/?p=389101</id>
+        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
+        <updated>2025-09-17T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
+Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jeff Bridgforth</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
         <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
         <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
@@ -173,6 +217,17 @@
         <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: cos() and sin()]]></title>
+        <id>https://css-tricks.com/?p=389130</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"/>
+        <updated>2025-09-15T14:31:06.000Z</updated>
+        <summary type="html"><![CDATA[I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the "worst" feature: sin() and cos().
+The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -196,6 +251,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
+        <id>https://css-tricks.com/?p=389060</id>
+        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
+        <updated>2025-09-12T14:20:45.000Z</updated>
+        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
+What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
+        <id>https://css-tricks.com/?p=389117</id>
+        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
+        <updated>2025-09-11T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
+Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’re Your Top 4 CSS Properties?]]></title>
+        <id>https://css-tricks.com/?p=388800</id>
+        <link href="https://css-tricks.com/whatre-your-top-4-css-properties/"/>
+        <updated>2025-09-10T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.
+What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
         <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
         <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
@@ -206,6 +294,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Composition in CSS]]></title>
+        <id>https://css-tricks.com/?p=388424</id>
+        <link href="https://css-tricks.com/composition-in-css/"/>
+        <updated>2025-09-08T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
+Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About CSS Color Interpolation]]></title>
+        <id>https://css-tricks.com/?p=388479</id>
+        <link href="https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/"/>
+        <updated>2025-09-05T13:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  
+What You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing For TV: Principles, Patterns And Practical Guidance (Part 2)]]></title>
         <id>https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/</id>
         <link href="https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/"/>
@@ -213,6 +323,17 @@
         <summary type="html"><![CDATA[After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Milan Balać)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should the CSS light-dark() Function Support More Than Light and Dark Values?]]></title>
+        <id>https://css-tricks.com/?p=388888</id>
+        <link href="https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/"/>
+        <updated>2025-09-02T14:44:26.000Z</updated>
+        <summary type="html"><![CDATA[The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.
+Should the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>

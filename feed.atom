@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-26T01:51:02.835Z</id>
+    <id>urn:2026-07-27T01:58:06.732Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-26T01:51:02.835Z</updated>
+    <updated>2026-07-27T01:58:06.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,21 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -138,28 +123,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-15T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -193,17 +156,6 @@ What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-07T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -234,17 +186,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More]]></title>
-        <id>https://css-tricks.com/?p=395894</id>
-        <link href="https://css-tricks.com/whats-important-14/"/>
-        <updated>2026-06-30T13:54:14.000Z</updated>
-        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
-What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
         <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
         <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
@@ -262,17 +203,6 @@ What’s !important #14: Gap Decorations, random(), <select> field-sizing, and M
         <summary type="html"><![CDATA[July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
-        <id>https://css-tricks.com/?p=395223</id>
-        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
-        <updated>2026-06-29T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
-The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
